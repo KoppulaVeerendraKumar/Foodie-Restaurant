@@ -16,13 +16,6 @@ A clean, modern, and responsive restaurant website built using **React.js** and 
 
 ---
 
-## 📷 Preview
-
-![Uploading image.png…]()
-
-
-
-
 ## 🛠 Tech Stack
 
 - **React.js**
