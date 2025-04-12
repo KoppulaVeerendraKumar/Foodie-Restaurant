@@ -18,10 +18,10 @@ A clean, modern, and responsive restaurant website built using **React.js** and 
 
 ## 📷 Preview
 
-> ![Preview Image](./screenshot.png)  
-_Add a screenshot here to show off your design!_
+![Uploading image.png…]()
 
----
+
+
 
 ## 🛠 Tech Stack
 
